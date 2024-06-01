@@ -2,5 +2,5 @@
 - 👀 I’m interested in programming and software development
 - 🌱 I’m currently learning Game Development.
 - 💞️ I’m looking to collaborate on programming projects to gain experience and build relations and skills
-- 📫 LinkedIn: *https://www.linkedin.com/in/scyonix/*
+- 📫 LinkedIn: *https://www.linkedin.com/in/harris-nasir/*
 - Reddit: *[u/MHN_17](https://www.reddit.com/user/MHN_17)*
